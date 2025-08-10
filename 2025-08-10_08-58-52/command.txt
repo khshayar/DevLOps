@@ -1,0 +1,6 @@
+##############################################
+so ther we write any command that i think new for me :
+
+mkdir "$(date +'%Y-%m-%d_%H-%M-%S')"
+^^  
+mkdir 2025-08-10_09-01-14

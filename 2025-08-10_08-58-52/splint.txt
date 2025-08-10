@@ -1,0 +1,15 @@
+ 2025-08-10_09-05-50
+hi guys today we lets go to diving in devops white this road map >>
+
+https://github.com/devopshobbies/devops-roadmap
+
+and so yesterday i do so thing like :
+
+git >>> jadi 
+
+creat repo for learning and every thing that i do must be write able 
+
+and for today : i must learning go in the road map & dev overview
+
+now i find out golang off devops hubis is bosheet then i back in my past 
+off learning 
