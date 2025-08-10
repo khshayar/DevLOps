@@ -1,0 +1,62 @@
+Data type in golang 
+we have tow difrent of storage like 
+1. stack 
+2. heap
+date type that complix is save in heap and address save in stack
+object save in heap but address save in  stack 
+
+tow importent consept refrence type vlue type :
+
+the variable that value of save in the stacke we called vlue type
+
+the variable that value of address save in stack and valueof save on heap 
+we call refrenc type 
+
+Data type : 
+
+1. basic data type 
+
+a.int b.string c. boolan d. 
+
+
+2. agreatetype 
+
+array structs 
+
+3.refrence type 
+
+slice map function channel map
+
+4. interface type 
+
+lets diving every one 
+
+first ARRAY :
+is a list off any think and have size 
+
+slice :
+its same array but for sizing you can add a new 
+
+struct :
+
+your custom type 
+
+pointer 
+
+addrec any house off memory
+
+interface 
+it an contract 
+
+chanels:
+go routin 
+
+refranc type and vlue type::
+
+value type if you using in func and custom it the real of value dont changhe same 
+int bool string struct 
+
+refrence type :they are having apointer and address and we you using in function they can be change same 
+slice map chanel pointer function 
+
+const and enum
