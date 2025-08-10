@@ -1,0 +1,40 @@
+what is dev ops 
+
+it a cultcher
+
+agile atuomation pipe line infrastructer
+
+traditional softwaare development :
+
+plan creat test deploy 
+
+what do you want to build
+how do you want to build 
+do to build
+deliver your build
+ 
+ waterfall model   Agil model
+
+ agile methodology :
+
+ is sircel off this   plan > design >develop>test> deploy>review >>>>
+
+ agile have a fremwork and the most failer off its is scram 
+
+ scram is fremwork
+   
+    produckt packlog
+    sprint planning .>>>>>>>>>>>>>task and sprint backlog
+    scram team >>>>>> backend front end product owner scram master
+    daily stand up
+    sprint review
+
+agile solve the chlange betwen devloper and client 
+devops solve the chlange betwen devloper and opration
+
+dev ops is apractise that geting into deloper and oprations 
+
+plan > code > build > test > release > deploy > opreate > monitor 
+
+devops phases ^
+
