@@ -1,0 +1,20 @@
+here we write a command may be ned 
+
+git command :
+git show >>>>>show diteils for your last command 
+git show <commit hash> see ditiles any commit that you want by hashing addres
+
+vi command :
+i : insert mode type 
+a : append 
+o : new line 
+dd : for deleting aline 
+x : for deleting one char 
+yy : for cop line 
+3yy :cop three line 
+p : past wher you want 
+$ : go to the end of current line 
+0 : go the start of line 
+G : go to the end of file
+gg : go to the start off file 
+:number : you can jump in number of line you want 
