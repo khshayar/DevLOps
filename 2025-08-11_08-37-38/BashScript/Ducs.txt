@@ -1,0 +1,68 @@
+for now 
+ yesterday i find out thess:
+
+#! >>>>>she bang 
+/bin/bash >>>>>>>>>>>>>for run our bash script
+this command for write any thing that you wan adding to file 
+cat > "your file name "
+>
+>
+>                 any line you can type 
+>  for exiting you must type ctrl + d 
+better than last command you can use this 
+
+cat <<EOF> your file name 
+>
+>
+>
+>for exiting you must write EOF in the end off line 
+so lets diving an other course
+for stdin stdout stderr 
+     0      1      2  
+when you use > you getting stdin on the file it mean number 1
+in our script we using this 2>&1 
+its mean stderr go to the place that std 1 here 
+**** important ********* wen you using | pipe you give std to your an other command and you most think about stderr too and never forget it 
+
+exit code :
+
+every command in linux having exit code 
+for know is it do success or not and it important to know this 
+if your script or command do it success having exit code 0
+if command run not success having exit code not zero its between 0 - 255
+and for know what is exit code number use this command echo $?
+it so good for debugging
+
+variable :
+
+for defining variable you have tow method
+
+UPPERCASE : when you want define shell variable and export it to envier 
+variable.
+
+LOWERCASE : When you want define locale variable 
+
+We have three part same  shell variable , local variable and 
+envier variable
+for giving from cli use read command same in the input.sh example 
+
+for define environment variable you must use this command:
+export variable=value 
+for unsetting use this command 
+inset variable 
+******* as you know every export variable you set its just alive on this 
+section not on other section   
+
+conditions :
+
+syntax 
+
+if [ condition ]; then 
+echo "this is my first if in bash"
+fi
+
+arithmetic operators :
+-lt -gt -eq -ne -ge -le 
+
+string operators 
+# = , !=
