@@ -1,0 +1,5 @@
+when you write any command you do it white three options 
+
+.. stdin .......=0
+.. stdout.......=1
+.. stderr ......=2
