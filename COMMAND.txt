@@ -1,10 +1,33 @@
 here we write a command may be ned 
 
-git command :
-git show >>>>>show diteils for your last command 
-git show <commit hash> see ditiles any commit that you want by hashing addres
+#############
+Git command :
+############
+git show : show diteils for your last command 
+git show <commit hash> : see ditiles any commit that you want by hashing addres
 
-vi command :
+######################
+Conventional Commits :
+######################
+base syntax :
+<type>[optional scope]: <description> 
+for example : feat(login):add forget password api
+
+feat : feature
+fix : fixing bug or somthing
+docs : change or add or update ducument
+style : change ing code style
+refactor : refactor
+perf : macking better ets
+test : for testing 
+build : for building
+ci : for ci/cd
+revert : backing commit 
+ref : for refrencing  for task
+  
+############
+Vi command :
+############
 i : insert mode type 
 a : append 
 o : new line 
@@ -18,3 +41,4 @@ $ : go to the end of current line
 G : go to the end of file
 gg : go to the start off file 
 :number : you can jump in number of line you want 
+u : for undo deleting line 
