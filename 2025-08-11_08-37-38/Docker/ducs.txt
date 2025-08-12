@@ -1,0 +1,7 @@
+Docker:
+
+this a platform for container
+
+so some stuff that i remember:
+
+docker is  
